@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**JonathanFoucher/JonathanFoucher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+$ sh connect.sh
+jonathan@github:~ $ git config user.name
+> Jonathan Foucher
+jonathan@github:~ $ groups jonathan
+> jonathan : jonathan    developer    sudo
+jonathan@github:~ $ cd projects
+jonathan@github:~/projects $ ls
+> java-projects    python-projects    vuejs-projects
+jonathan@github:~/projects $ cat ../hobbies.txt
+> coding, hacking, learning physics, playing video games
+jonathan@github:~/projects $ exit
+$ exit
+```
