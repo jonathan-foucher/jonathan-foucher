@@ -96,15 +96,9 @@ Coding is more than a job for me, it's also a hobby and a passion. I try to lear
 ### Links
 
 ---
-<a href="https://www.linkedin.com/in/jonathanfoucher" target="_blank" style="text-decoration:none">
-    <img src="/assets/icons/linkedin.png" alt="linkedin" height="45" />
-</a>&nbsp;
-<a href="https://jonathan-foucher.github.io" target="_blank" style="text-decoration:none">
-    <img src="/assets/icons/github.svg" alt="github" height="45" />
-</a>&nbsp;
-<a href="https://www.root-me.org/Jonathan-608847" target="_blank" style="text-decoration:none">
-    <img src="/assets/icons/rootme.svg" alt="rootme" height="45" />
-</a>
+[<img src="/assets/icons/linkedin.png" alt="linkedin" height="45" />](https://www.linkedin.com/in/jonathanfoucher)&nbsp;
+[<img src="/assets/icons/github.svg" alt="github" height="45" />](https://jonathan-foucher.github.io)&nbsp;
+[<img src="/assets/icons/rootme.svg" alt="rootme" height="45" />](https://www.root-me.org/Jonathan-608847)&nbsp;
 
 ###
 <picture>
