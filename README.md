@@ -13,7 +13,7 @@
 ---
 I've been working for the few last years as a Software Engineer, slowly mastering the complete stack of web development.
 
-After graduating from a master degree in Industrial Computing, I started my journey in 2019 as a junior developer.
+After graduating from a master's degree in Industrial Computing, I started my journey in 2019 as a junior developer.
 
 I rapidly gained in experience and built my way to become a senior developer. ⛓️‍💥 Freelancer since 2022.
 
