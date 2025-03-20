@@ -1,4 +1,6 @@
-<img src="/assets/images/header.svg" alt="Welcome to my profile" />
+<picture>
+    <img src="/assets/images/header.svg" alt="Welcome to my profile" />
+</picture>
 
 ###  Introduction
 
@@ -19,26 +21,66 @@ I rapidly gained in experience and built my way to become a senior developer. �
 
 Some of the tools I worked with :
 
-<img src="/assets/dev-icons/java.svg" alt="java" height="45" />&nbsp;
-<img src="/assets/dev-icons/spring.svg" alt="spring" height="45" />&nbsp;
-<img src="/assets/dev-icons/maven.svg" alt="maven" height="45" />&nbsp;
-<img src="/assets/dev-icons/junit.svg" alt="junit" height="45" />&nbsp;
-<img src="/assets/dev-icons/kafka.svg" alt="kafka" height="45" />&nbsp;
-<img src="/assets/dev-icons/javascript.svg" alt="javascript" height="45" />&nbsp;
-<img src="/assets/dev-icons/vuejs.svg" alt="vuejs" height="45" />&nbsp;
-<img src="/assets/dev-icons/vuetify.svg" alt="vuetify" height="45" />&nbsp;
-<img src="/assets/dev-icons/vitest.svg" alt="vitest" height="45" />&nbsp;
-<img src="/assets/dev-icons/nodejs.svg" alt="nodejs" height="45" />&nbsp;
-<img src="/assets/dev-icons/bun.svg" alt="bun" height="45" />&nbsp;
-<img src="/assets/dev-icons/git.svg" alt="git" height="45" />&nbsp;
-<img src="/assets/dev-icons/github.svg" alt="github" height="45" />&nbsp;
-<img src="/assets/dev-icons/github-actions.svg" alt="github-actions" height="45" />&nbsp;
-<img src="/assets/dev-icons/docker.svg" alt="docker" height="45" />&nbsp;
-<img src="/assets/dev-icons/kubernetes.svg" alt="kubernetes" height="45" />&nbsp;
-<img src="/assets/dev-icons/gcp.svg" alt="gcp" height="45" />&nbsp;
-<img src="/assets/dev-icons/postgresql.svg" alt="postgresql" height="45" />&nbsp;
-<img src="/assets/dev-icons/redis.svg" alt="redis" height="45" />&nbsp;
-<img src="/assets/dev-icons/rabbitmq.svg" alt="rabbitmq" height="45" />&nbsp;
+<picture>
+    <img src="/assets/dev-icons/java.svg" alt="java" height="45" />
+</picture>&nbsp;
+<picture>
+    <img src="/assets/dev-icons/spring.svg" alt="spring" height="45" />
+</picture>&nbsp;
+<picture>
+    <img src="/assets/dev-icons/maven.svg" alt="maven" height="45" />
+</picture>&nbsp;
+<picture>
+    <img src="/assets/dev-icons/junit.svg" alt="junit" height="45" />
+</picture>&nbsp;
+<picture>
+    <img src="/assets/dev-icons/kafka.svg" alt="kafka" height="45" />
+</picture>&nbsp;
+<picture>
+    <img src="/assets/dev-icons/javascript.svg" alt="javascript" height="45" />
+</picture>&nbsp;
+<picture>
+    <img src="/assets/dev-icons/vuejs.svg" alt="vuejs" height="45" />
+</picture>&nbsp;
+<picture>
+    <img src="/assets/dev-icons/vuetify.svg" alt="vuetify" height="45" />
+</picture>&nbsp;
+<picture>
+    <img src="/assets/dev-icons/vitest.svg" alt="vitest" height="45" />
+</picture>&nbsp;
+<picture>
+    <img src="/assets/dev-icons/nodejs.svg" alt="nodejs" height="45" />
+</picture>&nbsp;
+<picture>
+    <img src="/assets/dev-icons/bun.svg" alt="bun" height="45" />
+</picture>&nbsp;
+<picture>
+    <img src="/assets/dev-icons/git.svg" alt="git" height="45" />
+</picture>&nbsp;
+<picture>
+    <img src="/assets/dev-icons/github.svg" alt="github" height="45" />
+</picture>&nbsp;
+<picture>
+    <img src="/assets/dev-icons/github-actions.svg" alt="github-actions" height="45" />
+</picture>&nbsp;
+<picture>
+    <img src="/assets/dev-icons/docker.svg" alt="docker" height="45" />
+</picture>&nbsp;
+<picture>
+    <img src="/assets/dev-icons/kubernetes.svg" alt="kubernetes" height="45" />
+</picture>&nbsp;
+<picture>
+    <img src="/assets/dev-icons/gcp.svg" alt="gcp" height="45" />
+</picture>&nbsp;
+<picture>
+    <img src="/assets/dev-icons/postgresql.svg" alt="postgresql" height="45" />
+</picture>&nbsp;
+<picture>
+    <img src="/assets/dev-icons/redis.svg" alt="redis" height="45" />
+</picture>&nbsp;
+<picture>
+    <img src="/assets/dev-icons/rabbitmq.svg" alt="rabbitmq" height="45" />
+</picture>&nbsp;
 
 ###
 ### Outside of work
@@ -47,7 +89,7 @@ Some of the tools I worked with :
 Coding is more than a job for me, it's also a hobby and a passion. I try to learn new things whenever I have some free time.
 
 🎯 Current goals :
-- learn and master a new language (maybe Rust <img src="/assets/dev-icons/rust.svg" alt="" height="13" /> or Zig <img src="/assets/dev-icons/zig.svg" alt="" height="13" />)
+- learn and master a new language (maybe Rust <picture><img src="/assets/dev-icons/rust.svg" alt="" height="13" /></picture> or Zig <picture><img src="/assets/dev-icons/zig.svg" alt="" height="13" /></picture>)
 - continue to improve my general knowledge of IT and security 🏴‍☠️
 
 ###
@@ -65,4 +107,6 @@ Coding is more than a job for me, it's also a hobby and a passion. I try to lear
 </a>
 
 ###
-<img src="/assets/images/footer.svg" alt="" />
+<picture>
+    <img src="/assets/images/footer.svg" alt="" />
+</picture>
