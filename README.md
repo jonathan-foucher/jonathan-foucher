@@ -93,14 +93,12 @@ Coding is more than a job for me, it's also a hobby and a passion. I try to lear
 - continue to improve my general knowledge of IT and security 🏴‍☠️
 
 ###
-### Links
 
 ---
 [<img src="/assets/icons/linkedin.png" alt="linkedin" height="45" />](https://www.linkedin.com/in/jonathanfoucher)&nbsp;
 [<img src="/assets/icons/github.svg" alt="github" height="45" />](https://jonathan-foucher.github.io)&nbsp;
 [<img src="/assets/icons/rootme.svg" alt="rootme" height="45" />](https://www.root-me.org/Jonathan-608847)&nbsp;
 
-###
 <picture>
     <img src="/assets/images/footer.svg" alt="" />
 </picture>
