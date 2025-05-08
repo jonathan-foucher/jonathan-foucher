@@ -98,7 +98,7 @@ Some of the tools I worked with :
 Coding is more than a job for me, it's also a hobby and a passion. I try to learn new things whenever I have some free time.
 
 🎯 Current goals :
-- learn and master a new language (maybe Rust <picture><img src="/assets/dev-icons/rust.svg" alt="" height="13" /></picture> or Zig <picture><img src="/assets/dev-icons/zig.svg" alt="" height="13" /></picture>)
+- learn and master a new language (maybe Rust <picture><img src="/assets/tech-stack-icons/rust.svg" alt="" height="13" /></picture> or Zig <picture><img src="/assets/tech-stack-icons/zig.svg" alt="" height="13" /></picture>)
 - continue to improve my general knowledge of IT and security 🏴‍☠️
 
 ###
