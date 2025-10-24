@@ -91,23 +91,6 @@ Some of the tools I worked with :
     <img src="/assets/tech-stack-icons/rabbitmq.svg" alt="rabbitmq" height="45" />
 </picture>&nbsp;
 
-###
-### Outside of work
-
----
-Coding is more than a job for me, it's also a hobby and a passion. I try to learn new things whenever I have some free time.
-
-🎯 Current goals :
-- learn and master a new language (maybe Rust <picture><img src="/assets/tech-stack-icons/rust.svg" alt="" height="13" /></picture> or Zig <picture><img src="/assets/tech-stack-icons/zig.svg" alt="" height="13" /></picture>)
-- continue to improve my general knowledge of IT and security 🏴‍☠️
-
-###
-
----
-[<img src="/assets/icons/linkedin.png" alt="linkedin" height="45" />](https://www.linkedin.com/in/jonathanfoucher)&nbsp;
-[<img src="/assets/icons/github.svg" alt="github" height="45" />](https://jonathan-foucher.github.io)&nbsp;
-[<img src="/assets/icons/rootme.svg" alt="rootme" height="45" />](https://www.root-me.org/Jonathan-608847)&nbsp;
-
 <picture>
     <img src="/assets/images/footer.svg" alt="" />
 </picture>
